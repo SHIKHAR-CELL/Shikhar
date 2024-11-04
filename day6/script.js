@@ -33,3 +33,5 @@
 //     const body=document.querySelector('body');
 //     body.appendChild(newdiv);
 // }
+// const button=document.querySelector('button');
+// button.addEventListener('click',()=>alert('hello'))
